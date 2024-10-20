@@ -1,0 +1,35 @@
+*{
+  background-color: whitesmoke;
+}
+
+nav{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+
+#logo_img{
+  height: 10vh;
+  width: 4vw;
+  margin-left: 2vw; 
+}
+
+.menu_items{
+  text-align: center;
+  font-size: 3.5vh;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 2vh;
+  margin-left: 3vw;
+  margin-right: 3vw;
+}
+
+.pages_link{
+  color: black;
+  text-decoration: none;
+}
+
+#info{
+  margin-top: 5vh;
+  margin-left: 2vw;
+}
