@@ -1,0 +1,21 @@
+*{
+  background-color: whitesmoke;
+}
+
+nav{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+
+#logo_img{
+  height: 10vh;
+  width: 4vw;
+  margin-left: 2vw; 
+}
+
+#problem_box{
+  margin-top: 5vh;
+  margin-left: 2vw;
+}
